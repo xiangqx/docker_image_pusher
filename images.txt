@@ -1,2 +1,1 @@
-openjdk:8-jdk
 uozi/nginx-ui:latest
